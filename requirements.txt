@@ -1,5 +1,5 @@
 Flask
 flask-session
-langchain-google-genai
-langchain-community
+python-dotenv
+groq
 gunicorn
